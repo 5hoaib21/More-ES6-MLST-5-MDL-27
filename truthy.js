@@ -17,7 +17,9 @@ data = ` `;
 //   console.log('Falsy');
 // }
 
-let price = 0;
-if(!price){
-  console.log('price is falsy');
-}
+// let price = 0;
+// if(!price){
+//   console.log('price is falsy');
+// }
+
+// console.log(typ);
