@@ -18,6 +18,7 @@ const students = [
   {name : 'Topu7', age: 27},
 ]
 const olderStudents = students.filter(std=> std.age >25)
+
  
 
 console.log( olderStudents);
